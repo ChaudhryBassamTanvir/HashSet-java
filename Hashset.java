@@ -27,6 +27,7 @@ class hashSet {
         }
         System.out.println("set size " + set.size());
         // iterator
+        @SuppressWarnings("rawtypes")
         Iterator it = set.iterator();// bht imp concept kyo k set ka koi index nahi hota traverse karne k liyay iss
                                      // liyay iterative it create kia ab jis ke type b ityerative he hai ab iss ke
                                      // madad se hum handle kre ge isse se iterate kre ge
