@@ -10,7 +10,7 @@ class hashSet {
         set.add(3);
         set.add(1);
         set.add(6);
-        // print all element
+        // print all elements
         System.out.println(set);
         // search
         if (set.contains(1)) {
