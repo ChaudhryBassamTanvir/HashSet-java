@@ -12,7 +12,7 @@ class hashSet {
         set.add(6);
         // print all elements
         System.out.println(set);
-        // se
+        // search
         if (set.contains(1)) {
             System.out.println("set has 1");
         }
