@@ -32,7 +32,7 @@ class hashSet {
                                      // liyay iterative it create kia ab jis ke type b ityerative he hai ab iss ke
                                      // madad se hum handle kre ge isse se iterate kre ge
 
-        // hasNext
+        // hasNext next
         while (it.hasNext()) {
             System.out.println(it.next());
         }
